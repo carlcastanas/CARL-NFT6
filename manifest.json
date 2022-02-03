@@ -1,0 +1,22 @@
+{
+	"background_color": "#000",
+	"theme_color": "#fff",
+	"name": "Lonely Shadows",
+	"short_name": "Lonely Shadows",
+	"display": "minimal-ui",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "115x-webclip.png",
+			"sizes": "115x115",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "144x-Webclip.png",
+			"sizes": "144x144",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	]
+}
